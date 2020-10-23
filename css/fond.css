@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Pro Display';
+    src: local('San Francisco Pro Display Medium'), local('San-Francisco-Pro-Display-Medium'),
+        url('../fond/SFProDisplay-Medium.woff2') format('woff2'),
+        url('../fond/SFProDisplay-Medium.woff') format('woff'),
+        url('../fond/SFProDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pro Display';
+    src: local('San Francisco Pro Display Semibold'), local('San-Francisco-Pro-Display-Semibold'),
+        url('../fond/SFProDisplay-Semibold.woff2') format('woff2'),
+        url('../fond/SFProDisplay-Semibold.woff') format('woff'),
+        url('../fond/SFProDisplay-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pro Display';
+    src: local('San Francisco Pro Display Regular'), local('San-Francisco-Pro-Display-Regular'),
+        url('../fond/SFProDisplay-Regular.woff2') format('woff2'),
+        url('../fond/SFProDisplay-Regular.woff') format('woff'),
+        url('../fond/SFProDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
